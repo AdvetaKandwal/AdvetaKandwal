@@ -1,16 +1,11 @@
-### Hi there 👋
+# Hii everyone 👋
+## I am Adveta Kandwal
+### Currently am persuing Btech in CSE and I am in my first year.
 
-<!--
-**AdvetaKandwal/AdvetaKandwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning web development
+- 💬 Ask me about anything
+- 📫 How to reach me: <a>advetakandwal01@gmail.com</a>
+- 😄 Pronouns: Her
+- ⚡ Fun fact: I love to write poems, quoations and blogs.
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdvetaKandwal&show_icons=true&theme=radical)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AdvetaKandwal&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
