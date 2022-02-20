@@ -2,7 +2,7 @@
 ## I am Adveta Kandwal
 ### Currently am persuing Btech in CSE and I am in my first year.
 
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning python
 - 💬 Ask me about anything
 - 📫 How to reach me: <a>advetakandwal01@gmail.com</a>
 - 😄 Pronouns: Her
